@@ -1,47 +1,44 @@
 # Addendum — Last Week Home
 
-Depth parked for GDD / narrative design. Not part of the lean brief body.
+Depth parked for GDD / narrative design. Not part of the lean brief body. Historical subsections below may show earlier working assumptions; **Cast lock** and **Scene roles** are authoritative where they conflict.
 
 ## Character bible (source extract)
 
-Source: `/workspace/docs/character-bible.md` (2026-07-21). Full dump retained there; brief will use a trimmed cast commitment once decided.
+Source: `/workspace/docs/character-bible.md`. Full dump retained there.
 
-### Design themes from bible (to pressure-test)
+### Early design themes (pre-trim; pressure-test material)
 
-- Rachel / Allison as contrasting "what ifs" (comfort+instability vs. clarity+missed opportunity).
-- Kyle / Elliot as familiar identity vs. thoughtful growth.
+- Rachel / Allison as contrasting "what ifs" (Allison later dropped from playable cast).
+- Kyle / Elliot as familiar identity vs. thoughtful growth (both later dropped from playable; Nick carries friend pillar).
 - Family spectrum: stay-safe ↔ strategically pivot; Wes = leaving isn't always failure.
 - Ace as quiet emotional anchor.
 - Keep relationship drama grounded in psychology, not escalation for its own sake.
 
 ### Post-game / offscreen beats (bible)
 
-- After game events: Rachel cheats again → breakup; later with old mutual friend.
-- Allison never reconciles; moves on with mutual friend.
+- After game events: Rachel relationship ends; later with old mutual friend. Handle with care in endings/epilogue.
+- Allison never reconciles on-screen (cut from playable).
 - These may be epilogue material or intentionally *not* playable — open for GDD.
 
-
-## Spine decisions (2026-07-22)
+## Spine decisions (2026-07-22; partially superseded)
 
 - **Title:** Last Week Home
 - **Protagonist:** Kevin
-- **Ending feeling (A):** "I said goodbye to my life here."
+- **Ending feeling:** "I said goodbye to my life here."
 - **Allison:** dropped from playable cast
-- **Friend structure:** boys' night (Kyle + Elliot), Elliot load-bearing
-- **Endings:** 3–4 max; relationship outcomes matter; counterfactual path includes cleaner break with Rachel
-- **MVP must-scenes:** Steve, Elliot, Rachel, Mom (Lisa)
-- **Shame/potency note (C):** Rachel relationship material is emotionally strongest/riskiest — keep it honest but not the sole identity of the game; no Allison triangle on screen
-
+- **Friend structure (superseded):** boys' night / Elliot load-bearing → later replaced by **Nick** as sole load-bearing friend; Kyle/Elliot dropped
+- **Endings:** settled at **three** for MVP (was 3–4 max); relationship outcomes matter; counterfactual path includes cleaner break with Rachel
+- **MVP must-scenes (superseded cast):** was Steve, Elliot, Rachel, Mom → locked as **Steve, Mom, Rachel, Nick**
+- **Shame/potency note:** Rachel material is emotionally strongest/riskiest — keep honest but not the sole identity of the game; no Allison triangle on screen
 
 ## Scene anchors & nostalgia (2026-07-23)
 
-User dump — preserve for GDD dialogue/quests. Brief will reference at order-of-magnitude only.
+Preserve for GDD dialogue/quests.
 
-### Nick (new)
+### Nick
 - Friend since ~6th grade; car drop-off goodbye before college.
 - Kevin: farewell as if final, emotional; Nick: casual "see you when you're back."
 - Real-life irony: reconnected after college, close until Kevin moved to Charlotte; Nick still asks when he'll visit.
-- User offered to **replace** a cast member to make room for this scene.
 
 ### Rachel hug (weekend before leaving)
 - Kevin: crying, "I love you," "I'll make this work," promises regular visits.
@@ -54,13 +51,12 @@ User dump — preserve for GDD dialogue/quests. Brief will reference at order-of
 - Kevin already knows he must deprioritize music/games for studies.
 - **In-week set-piece = this confrontation/discipline beat** — not the homesick texts.
 
-### Homesick apology (Dad only — post-departure / epilogue)
-- After Kevin is at college: Kevin texts apology; Dad apologizes too, misses him, home feels different.
-- Not a during-the-week Steve set-piece; use for ending/epilogue only.
+### Homesick apology (Steve only — post-departure / epilogue)
+- After Kevin is at college: Kevin texts apology; Steve apologizes too, misses him, home feels different.
+- Not a during-the-week set-piece; ending/epilogue color only.
 
-### Directional ask
-- Bake in nostalgia: places, 2012 texture, local/period references.
-
+### Nostalgia
+- Specific places, 2012 texture, local/period references.
 
 ## Cast lock (2026-07-23)
 
@@ -68,15 +64,13 @@ Playable load-bearing: **Kevin, Steve, Lisa, Rachel, Nick**.
 Dropped from playable: Allison, Kyle, Elliot.  
 Texture-only unless earned later: Elizabeth, Wes, Ace.
 
-
-## Scene roles (locked 2026-07-23; Steve homesick corrected 2026-07-23)
+## Scene roles (locked)
 
 - **Brand image:** Nick car drop-off
 - **Climax choice cluster:** Rachel (asymmetric love; endings may include cleaner break / distance outcomes)
 - **Steve in-week set-piece:** Fear/discipline confrontation before leaving
-- **Mom in-week:** Attachment / emotional-safety goodbye (separate from Dad)
-- **Dad homesick mutual apology:** Post-departure only (epilogue/ending) — not a week set-piece
-
+- **Mom in-week:** Attachment / emotional-safety goodbye (separate from Steve)
+- **Steve homesick mutual apology:** Post-departure only (epilogue/ending) — not a week set-piece
 
 ## Rejected / parked systems (2026-07-23)
 
