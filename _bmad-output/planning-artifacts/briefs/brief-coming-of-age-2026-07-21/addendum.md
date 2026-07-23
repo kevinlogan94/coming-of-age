@@ -2,9 +2,9 @@
 
 Depth parked for GDD / narrative design. Not part of the lean brief body. Historical subsections below may show earlier working assumptions; **Cast lock** and **Scene roles** are authoritative where they conflict.
 
-## Character bible (source extract)
+## Character bible
 
-Source: `/workspace/docs/character-bible.md`. Full dump retained there.
+Source: `/workspace/docs/character-bible.md` — **character profiles only** (synced 2026-07-23). Design locks and scene anchors live in the brief / this addendum; do not re-copy them into the bible.
 
 ### Early design themes (pre-trim; pressure-test material)
 

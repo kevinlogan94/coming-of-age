@@ -1,83 +1,60 @@
-# Character Bible
+# Character Bible — Last Week Home
 
-Recap of the character-building conversation for the pre-college narrative game.
+Character depth for GDD / dialogue writing. **Design locks** (cast roles, set-pieces, endings, scope) live in the game brief and addendum — do not duplicate them here:
 
-## Setting
+- Brief: `_bmad-output/planning-artifacts/briefs/brief-coming-of-age-2026-07-21/brief.md`
+- Addendum (scene anchors, cast lock): `.../addendum.md`
 
-The story takes place during the final week before Kevin leaves home for college, set about an hour and a half away from his hometown.
-
-## Core Cast
+## Playable cast
 
 ### Kevin
 
-The protagonist, navigating relationships, friendships, and family expectations during his last week home.
+Protagonist. Last week home before college (~1.5 hours away). Navigating family expectations, friendship goodbyes, and the relationship with Rachel.
 
 ### Rachel
 
-Kevin's on-and-off girlfriend for the past two years, since junior year. They met in high school biology class, sitting next to each other, and became best friends before becoming a couple—notably, Kevin was still dating Allison when he met Rachel. Rachel is staying in the hometown for college rather than moving with Kevin. She has a history of depression and a pattern of cheating; the plan is that after the game's events, she cheats on Kevin again and he eventually breaks up with her. She later ends up with an old mutual friend.
+On-and-off girlfriend for ~two years (since junior year). Met in high-school biology; best friends before couple — Kevin was still dating Allison when they met. Staying in the hometown for college rather than moving with Kevin. History of depression and a pattern of cheating. Post-week / offscreen (handle carefully in endings/epilogue): relationship ends after a semester of Kevin commuting; suspected cheating never confirmed as fact; she later ends up with an old mutual friend.
 
-### Allison — cut from playable cast (2026-07-22)
+### Nick
 
-Background only / not a quest character in *Last Week Home*. Former girlfriend; months before the week begins, Kevin broke up with her in favor of Rachel. Kept out of the game to avoid a second romance branch and keep scope honest. May appear as offhand mention if dialogue needs it — not a portrait quest.
-
-### Kyle — dropped from playable cast (2026-07-23)
-
-Kevin's close friend since middle school, primarily bonded through gaming. He's a single, spoiled only child. He's attending the same college as Kevin but they won't be roommates—he's moving in with Elliot instead.
-
-### Elliot — dropped from playable cast (2026-07-23)
-
-Another middle-school friend and one of Kevin's best friends alongside Kyle. He's extremely intelligent, a bit quiet, loves games, and is deeply supportive.
-
-### Nick — load-bearing friend (locked 2026-07-23)
-
-Friend since ~sixth grade through leaving for college. The car-ride goodbye: Kevin drops him off, says a real farewell (believes he may never see him again), gets emotional; Nick responds lightly — "can't wait to see you when you're back" — missing the gravity. Irony (offscreen/epilogue possible): they *do* reconnect after college and stay close until Kevin later moves to Charlotte; Nick still reaches out. Theme vehicle for impermanence, misread farewells, and presence without omniscience.
-
-**Cast note:** Replaces Elliot/Kyle as the friend pillar. Car farewell is the friend must-ship scene.
-
-## Family
+Friend since ~sixth grade. Load-bearing friend goodbye: car drop-off — Kevin treats it as possibly final; Nick assumes they’ll hang when Kevin’s back. Real-life irony (epilogue-ok): they reconnect after college until Kevin later moves to Charlotte; Nick still reaches out.
 
 ### Steve (Dad)
 
-Focused on making sure Kevin is prepared for the real world; represents practical expectation and pressure.
+Practical expectation and pressure — wants Kevin prepared for the real world. In-week weight: short/nervous that Kevin won’t take college seriously (high school priority was Rachel + drumline; local awards/“legend”). Knows Kevin already understands music/games must yield to studies. **Homesick mutual apology** (Kevin texts sorry; Steve apologizes too, misses him, house feels different) is **post-departure only** — epilogue/ending color, not an in-week set-piece.
 
 ### Lisa (Mom)
 
-Loves Kevin deeply and wants to support him; represents emotional safety and attachment.
+Emotional safety and attachment. Separate in-week goodbye/attachment beat from Steve — not part of the homesick text exchange.
+
+## Texture-only (unless a later scene earns more)
 
 ### Elizabeth (Little Sister)
 
-Still lives at home; represents legacy and being watched/admired by a younger sibling.
+Still at home; legacy / being watched by a younger sibling.
 
 ### Wes (Big Brother / Mentor)
 
-Attended the same college Kevin is about to attend but transferred away. He left not out of failure, but because he wanted better mentorship/teaching to advance his career, even though he loved the social side of that school. He visits home occasionally and gives Kevin advice, though it comes from a place of intentional, strategic thinking rather than pure comfort.
+Attended the same college Kevin is headed to, then transferred — not failure; wanted better mentorship/teaching for career, even though he loved the social side. Occasional visits; advice that is strategic more than purely comforting.
 
 ### Ace
 
-Kevin's Shih Tzu, serving as an emotional anchor and quiet, grounding presence throughout the week.
+Kevin’s Shih Tzu — quiet emotional anchor / grounding presence.
 
-## Design Themes
+## Background only (not playable)
 
-- Emotional spine: saying goodbye to this life — not a romance autopsy. Rachel is the sharpest unfinished conversation, not the whole game.
-- MVP load-bearing cast (updated 2026-07-23): **Steve, Lisa (Mom), Rachel, Nick** — each gets a real scene/quest beat.
-- **Kyle and Elliot dropped** from playable cast (user confirmed). May remain as background mentions only.
-- Allison cut from playable cast; no second romance branch.
-- Family: Dad (practical pressure) + Mom (attachment) as primary; sister / Wes / Ace as texture unless a scene earns itself later.
-- Endings: 3–4 max, shaped by relationship outcomes / presence — including a path where Kevin leaves the Rachel relationship cleaner than real life did.
-- Protagonist name: **Kevin**.
-- Keep relationship drama grounded in character psychology, not escalation for its own sake.
+### Allison
 
-## Scene Anchors (player-sourced, 2026-07-23)
+Former girlfriend; Kevin broke up with her months before the week in favor of Rachel. Cut from playable cast — no second romance branch. Offhand mention only if dialogue needs it.
 
-These are emotional north stars for writing — not a full outline.
+### Kyle
 
-1. **Nick — car drop-off farewell:** Asymmetric goodbye. Kevin treats it as possibly final; Nick assumes continuity. Kevin cries after. Powerful, theme-true; candidate "must ship" scene.
-2. **Rachel — weekend-before hug:** Kevin pours out love, commitment, "I'll make the distance work / visit often"; Rachel is indifferent ("yep, school, whatever"). Lands hard. Later (post-week / winter) the relationship ends after a semester of Kevin commuting effort; cheating suspected, never confirmed — handle with care; may be ending/epilogue material, not week plot.
-3. **Steve — short with Kevin (in-week set-piece):** Nervous Kevin won't take college seriously (high school priority was Rachel + drumline; awards/"legend" at school). Coaches/disciplines; Kevin already knows music/games must yield to studies. This hard conversation is Steve's during-the-week weight — not a combined "parents" set-piece.
-4. **Homesick apology (Dad only, post-departure):** After Kevin is already at school, he texts apology; Dad apologizes too — misses him, house different without him. **Epilogue / ending color only** — does not belong as a Last Week Home set-piece.
-5. **Mom:** Separate attachment/goodbye beat during the week (emotional safety) — not part of the homesick text exchange.
-6. **Nostalgia layer:** Specific places, 2012 Northern Kentucky texture, drumline identity, period details — make the week feel located, not generic suburbia.
+Middle-school friend, bonded through gaming; spoiled only child; same college as Kevin but rooming with Elliot. Dropped from playable cast — ambient mention only if needed.
 
-## Open Thread
+### Elliot
 
-Deeper background on each character (motivations, self-awareness, specific fears) still to dig into—useful for dialogue and behavior when ready to continue.
+Middle-school friend; intelligent, quiet, supportive, loves games. Dropped from playable cast — ambient mention only if needed. (Elliot the *collaborator* helping with story is a real-world credit, not this NPC.)
+
+## Open thread
+
+Deeper motivations, self-awareness, and specific fears per character — dig in during GDD / narrative design.
