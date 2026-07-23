@@ -21,3 +21,11 @@ Do not preserve backwards compatibility unless the user asks for it. Prefer the 
 ## Prefer terminal for file ops
 
 When interacting with files, prefer terminal commands over editing files directly when possible (saves tokens). Example: use `mv` instead of writing the file in the new location and removing the old one.
+
+## Terrain assets from LPC Revised
+
+For terrain and area-building tilesets, use the latest Liberated Pixel Cup assets from [ElizaWy/LPC](https://github.com/ElizaWy/LPC) (especially the `Terrain/` tree). Prefer that repo over other LPC sources when adding or updating terrain.
+
+## Prefer consolidated files (~500 lines)
+
+Optimize for Cursor performance by consolidating related code into fewer files of up to about 500 lines each. Prefer one well-sized file over many tiny (~100-line) files for the same concern. Split only when a file would meaningfully exceed ~500 lines or when scene colocation / separation of concerns clearly requires it.
