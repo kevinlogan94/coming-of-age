@@ -48,11 +48,15 @@ User dump — preserve for GDD dialogue/quests. Brief will reference at order-of
 - Rachel: indifferent / flat affect.
 - Aftermath (outside week, possible epilogue): Kevin keeps visiting fall semester; breakup winter; suspected cheating never confirmed — do not treat suspicion as fact in-fiction without care.
 
-### Parents / Steve
+### Steve (in-week)
 - Short with Kevin pre-leave; fear he won't take school seriously.
 - High-school identity: Rachel + drumline (awards, local "legend") over academics.
 - Kevin already knows he must deprioritize music/games for studies.
-- Later: homesick apology text; Dad also sorry, misses him, home feels different.
+- **In-week set-piece = this confrontation/discipline beat** — not the homesick texts.
+
+### Homesick apology (Dad only — post-departure / epilogue)
+- After Kevin is at college: Kevin texts apology; Dad apologizes too, misses him, home feels different.
+- Not a during-the-week Steve set-piece; use for ending/epilogue only.
 
 ### Directional ask
 - Bake in nostalgia: places, 2012 texture, local/period references.
