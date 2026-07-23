@@ -73,8 +73,10 @@ These are emotional north stars for writing — not a full outline.
 
 1. **Nick — car drop-off farewell:** Asymmetric goodbye. Kevin treats it as possibly final; Nick assumes continuity. Kevin cries after. Powerful, theme-true; candidate "must ship" scene.
 2. **Rachel — weekend-before hug:** Kevin pours out love, commitment, "I'll make the distance work / visit often"; Rachel is indifferent ("yep, school, whatever"). Lands hard. Later (post-week / winter) the relationship ends after a semester of Kevin commuting effort; cheating suspected, never confirmed — handle with care; may be ending/epilogue material, not week plot.
-3. **Steve / parents — short with Kevin:** Nervous he won't take college seriously (high school priority was Rachel + drumline; awards/"legend" at school). They coach/discipline; Kevin already knows music/games must yield to studies. Later homesick beat: Kevin texts apology; Dad apologizes too — misses him, house different without him. Arc: friction → mutual soft landing.
-4. **Nostalgia layer:** Specific places, 2012 Northern Kentucky texture, drumline identity, period details — make the week feel located, not generic suburbia.
+3. **Steve — short with Kevin (in-week set-piece):** Nervous Kevin won't take college seriously (high school priority was Rachel + drumline; awards/"legend" at school). Coaches/disciplines; Kevin already knows music/games must yield to studies. This hard conversation is Steve's during-the-week weight — not a combined "parents" set-piece.
+4. **Homesick apology (Dad only, post-departure):** After Kevin is already at school, he texts apology; Dad apologizes too — misses him, house different without him. **Epilogue / ending color only** — does not belong as a Last Week Home set-piece.
+5. **Mom:** Separate attachment/goodbye beat during the week (emotional safety) — not part of the homesick text exchange.
+6. **Nostalgia layer:** Specific places, 2012 Northern Kentucky texture, drumline identity, period details — make the week feel located, not generic suburbia.
 
 ## Open Thread
 

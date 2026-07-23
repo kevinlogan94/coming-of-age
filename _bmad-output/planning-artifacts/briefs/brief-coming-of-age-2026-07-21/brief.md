@@ -100,7 +100,7 @@ The project is an entry release — solo-led, LPC + custom/AI portraits, story a
 - Verbs: walk/run, talk+portraits, text+scheduling/ditch, examine
 - **Three endings** driven by Nick / Rachel / Family presence flags
 - Content pool sized so one playthrough ≈ **2–3 hours** (player sees a path through the pool; total authored scenes denser than one run)
-- **Four long set-pieces** (including Nick car farewell + Rachel asymmetric goodbye + parental arc beats)
+- **Four long set-pieces:** Nick car farewell; Rachel asymmetric goodbye; Steve in-week confrontation (fear/discipline, not the later homesick texts); Mom attachment/goodbye
 - Locations: small set (home, Nick drop-off route, Rachel-related place, one shared hangout) — expand only if a scene earns it
 - Art: Liberated Pixel Cup (+ extensions) for world/sprites; custom or AI-assisted portraits for the load-bearing cast; keep attribution clean
 - Audio: original or brother-led music bed matching melancholic nostalgia; light SFX
@@ -113,7 +113,7 @@ The project is an entry release — solo-led, LPC + custom/AI portraits, story a
 
 **Setting:** Northern Kentucky, summer/era texture of **2012** — period phones/texts, local places, high-school aftermath (including drumline identity as backstory/examine flavor, not a full game mode). College is about an hour and a half away; the week is the threshold.
 
-**Narrative approach:** Autofiction-flavored, grounded realism. No supernatural framing. Story told through conversations, texts, and what you miss when you choose someone else. Brand image = Nick’s mismatched farewell; climax choice cluster = Rachel; parental arc = fear → softness.
+**Narrative approach:** Autofiction-flavored, grounded realism. No supernatural framing. Story told through conversations, texts, and what you miss when you choose someone else. Brand image = Nick’s mismatched farewell; climax choice cluster = Rachel; Steve’s in-week weight = fear dressed as discipline; Mom = attachment/emotional safety. The mutual homesick apology with Dad happens **after** Kevin has left — epilogue/ending color only, not a during-the-week set-piece.
 
 **Cast (playable weight):** Steve, Mom, Rachel, Nick. Texture-only unless a scene earns later inclusion: Elizabeth, Wes, Ace; dropped from playable: Allison, Kyle, Elliot.
 

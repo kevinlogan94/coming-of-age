@@ -65,11 +65,13 @@ Dropped from playable: Allison, Kyle, Elliot.
 Texture-only unless earned later: Elizabeth, Wes, Ace.
 
 
-## Scene roles (locked 2026-07-23)
+## Scene roles (locked 2026-07-23; Steve homesick corrected 2026-07-23)
 
 - **Brand image:** Nick car drop-off
 - **Climax choice cluster:** Rachel (asymmetric love; endings may include cleaner break / distance outcomes)
-- **Parental arc:** Steve (+ Mom) short → mutual softness / homesick
+- **Steve in-week set-piece:** Fear/discipline confrontation before leaving
+- **Mom in-week:** Attachment / emotional-safety goodbye (separate from Dad)
+- **Dad homesick mutual apology:** Post-departure only (epilogue/ending) — not a week set-piece
 
 
 ## Rejected / parked systems (2026-07-23)
